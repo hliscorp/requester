@@ -1,5 +1,5 @@
 {
-    "name": "hlis/requester",
+    "name": "lucinda/requester",
     "type": "library",
     "description": "Light weight complete object oriented cURL wrapper for HTTP/HTTPS requests",
     "keywords": [
@@ -14,7 +14,7 @@
         "ext-curl": "*"
     },
     "require-dev": {
-        "hlis/unit-testing": "^2.0"
+        "lucinda/unit-testing": "^2.0"
     },
     "autoload": {
         "psr-4": {
